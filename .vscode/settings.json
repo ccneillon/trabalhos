@@ -2,6 +2,7 @@
     "files.associations": {
         "LogicaSuperTrunfo1.C": "cpp",
         "SuperTrunfo.C": "cpp",
-        "DesafioXadrez.C": "cpp"
+        "DesafioXadrez.C": "cpp",
+        "DesafioBatalhaNaval.C": "cpp"
     }
 }
